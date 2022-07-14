@@ -9,7 +9,7 @@ const Hero = () => {
           <Col lg={6}>
             <div className="pr-lg-5">
               <p className="text-uppercase text-primary font-weight-medium f-14 mb-4">Elegant Wallet</p>
-              <h1 className="mb-4 font-weight-normal line-height-1_4">Easy picking and no hidden charnge <span className="text-primary font-weight-medium"></span></h1>
+              <h1 className="mb-4 font-weight-normal line-height-1_4">Easy picking and no hidden charge <span className="text-primary font-weight-medium"></span></h1>
               <p className="text-muted mb-4 pb-2">Enjoy banking, utility service and ecommerce discounts</p>
               <a href="#" className="btn btn-warning">
                 Find Out How <span className="ml-2 right-icon">&#8594;</span>
