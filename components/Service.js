@@ -3,10 +3,11 @@ import { Container, Row, Col } from "reactstrap";
 
 const Service = () => {
   const services = [
-    { title : "Lorem Ipsum", desc : "Free banking" },
-    { title : "Lorem Ipsum", desc : "No hidden charge" },
-    { title : "Lorem Ipsum", desc : "Discounts on e-commerce products" },
- 
+    { title : "Basic", desc : "Enjoy starter services" },
+    { title : "Pro", desc : "Enjoy customer care with services" },
+    { title : "Advanced", desc : "Enjoy 5% discount on all service" },
+    { title : "Premius", desc : "Enjoy 10% discount on all service" },
+    
   ]
   
   return (
@@ -15,8 +16,8 @@ const Service = () => {
         <Row className="justify-content-center">
           <Col lg={6} md={8}>
             <div className="title text-center mb-5">
-              <h3 className="font-weight-normal text-dark"><span className="text-warning">Our offe</span></h3>
-              <p className="text-muted">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+              <h3 className="font-weight-normal text-dark"><span className="text-warning">Pricing</span></h3>
+              <p className="text-muted">From Basic to Pro with Advanced, Premium options, we provide different packages based on your usages and needs</p>
             </div>
           </Col>
         </Row>
