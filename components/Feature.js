@@ -52,7 +52,7 @@ const Feature = () => {
 
   const features = [
     {id : 1, img : "./images/b1.png", title : "Banking", desc : "Enjoy our services in different corporate houses.", link : "/"},
-    {id : 2, img : "./images/b2.png", title : "  Utilities", desc : "Pay less while enjoying utility bill transfer", link : "/"},
+    {id : 2, img : "./images/b2.png", title : "  Utility", desc : "Pay less while enjoying utility bill transfer", link : "/"},
     {id : 3, img : "./images/a.png", title : "E-Commerce", desc : "Enjoy discounts on famous e-commerce platforms", link : "/"},
   ];
 
