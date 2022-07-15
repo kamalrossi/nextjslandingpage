@@ -3,7 +3,7 @@ import { Container, Row, Col } from "reactstrap";
 
 const Service = () => {
   const services = [
-    { title : "Basic", desc : "Enjoy starter services" },
+
     { title : "Pro", desc : "Enjoy customer care with services" },
     { title : "Advanced", desc : "Enjoy 5% discount on all service" },
     { title : "Premius", desc : "Enjoy 10% discount on all service" },
@@ -17,7 +17,7 @@ const Service = () => {
           <Col lg={6} md={8}>
             <div className="title text-center mb-5">
               <h3 className="font-weight-normal text-dark"><span className="text-warning">Pricing</span></h3>
-              <p className="text-muted">From Basic to Pro with Advanced, Premium options, we provide different packages based on your usages and needs</p>
+              <p className="text-muted">From  Pro to Advanced, Premium options, we provide different packages based on your usages and needs</p>
             </div>
           </Col>
         </Row>
