@@ -7,7 +7,7 @@ const Footer = () => {
       child : [
           { title : "Mobile Banking", link : "/" },
           { title : "Utility", link : "/" },
-          { title : "Air-ticket", link : "/" },
+         
           { title : "E-commerce", link : "/" }
       ]
     },
