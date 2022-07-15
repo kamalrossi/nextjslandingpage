@@ -62,7 +62,7 @@ const Feature = () => {
         <Row className="justify-content-center">
           <Col lg={6} md={8}>
             <div className="title text-center mb-5">
-              <h3 className="font-weight-normal text-dark"><span className="text-warning">What ElegantWallet Benefits</span></h3>
+              <h3 className="font-weight-normal text-dark"><span className="text-warning">Our Benefits</span></h3>
               <p className="text-muted">Right from the start,  we are number one brand in the wallet arena</p>
             </div>
           </Col>
